@@ -14,7 +14,7 @@
 
 </div>
 </div>
-<div x-data-="{nama: 'Wildan', angka : 5}">
+<div x-data-="{nama: 'alief', angka : 8}">
 
 <h1>
     Hallo, Nama saya : alief
